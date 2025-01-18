@@ -23,7 +23,7 @@ To provide a candidate search to hire the best Github candidates.
 ## Deployed Link
 
 Deployed Link: (https://candidate-search-1.netlify.app/)
-![Deployed Link](screenshot.png)
+![Deployed Link](screenshotapp.png)
 
 
 ## License
